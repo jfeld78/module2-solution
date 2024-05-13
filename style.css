@@ -37,7 +37,19 @@ h1 {
   overflow: auto;
   }
 
-#C1 C2 C3 {
+#C1 {
+  background-color: gray;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+#C2 {
+  background-color: gray;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+#C3 {
   background-color: gray;
   border: 1px solid black;
   margin-bottom: 15px;
