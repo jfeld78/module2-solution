@@ -9,8 +9,8 @@ h1 {
 
 #chicken { 
   align: center
-  background-color: blue;
   color: white;
+  background-color: blue;
   border: 5px, black;
   width: 75px;
   opacity: .6;
