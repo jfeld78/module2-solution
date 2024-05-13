@@ -7,11 +7,32 @@ h1 {
 }
 
 #T1 { 
+  color: white;
   background-color: blue;
-  padding: 10px;
-  border: 5px solid black;
-  width: 300px;
-  height: 50px;
+  padding: 5px;
+  border: 1px solid black;
+  width: 75px;
+  height: 10px;
+  margin-top: 50px;
+  overflow: auto;
+  }
+
+#T2 { 
+  background-color: green;
+  padding: 5px;
+  border: 1px solid black;
+  width: 75px;
+  height: 10px;
+  margin-top: 50px;
+  overflow: auto;
+  }
+
+#T3 { 
+  background-color: red;
+  padding: 5px;
+  border: 1px solid black;
+  width: 75px;
+  height: 10px;
   margin-top: 50px;
   overflow: auto;
   }
