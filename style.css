@@ -6,11 +6,13 @@ h1 {
   text-align: center;
 }
 
-#chicken { 
+#T1 { 
   text-align: center
   background-color: blue
   width: 75px;
   }
 
-#chicken-content {
-  
+#C1, C2, C3 {
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
