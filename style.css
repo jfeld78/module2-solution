@@ -8,10 +8,11 @@ h1 {
 }
 
 #chicken { 
+  align: center
   background-color: blue;
   color: white;
   border: 5px, black;
-  width: 50px;
+  width: 75px;
   opacity: .6;
 }
 
