@@ -50,25 +50,19 @@ h1 {
   }
 
 #C1 {
-  background-color: gray;
-  border: 1px solid black;
-  margin-bottom: 15px;
-  opacity: .6;
   color: black;
+  background-color: #BFC4BF;
+  margin-bottom: 15px;
 }
 
 #C2 {
   color: black;
-  background-color: gray;
-  border: 1px solid black;
+  background-color: #BFC4BF;
   margin-bottom: 15px;
-  opacity: .6;
 }
 
 #C3 {
   color: black;
-  background-color: gray;
-  border: 1px solid black;
+  background-color: #BFC4BF;
   margin-bottom: 15px;
-  opacity: .6;
 }
