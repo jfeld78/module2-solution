@@ -9,7 +9,7 @@ h1 {
 
 #chicken { 
   align: center
-  background-color: blue;
+  background: blue;
   color: white;
   border: 5px, black;
   width: 75px;
