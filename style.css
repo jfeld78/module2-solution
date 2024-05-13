@@ -17,6 +17,7 @@ h1 {
   }
 
 #C1 C2 C3 {
+  background-color: gray;
   border: 1px solid black;
   margin-bottom: 15px;
 }
