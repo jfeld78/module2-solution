@@ -8,6 +8,8 @@ h1 {
 
 #chicken { 
   text-align: center
+  background-color: blue
+  width: 75px;
   }
 
 #chicken-content {
