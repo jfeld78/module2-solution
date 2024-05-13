@@ -50,11 +50,11 @@ h1 {
   }
 
 #C1 {
-  color: black;
   background-color: gray;
   border: 1px solid black;
   margin-bottom: 15px;
   opacity: .6;
+  color: black;
 }
 
 #C2 {
