@@ -1,4 +1,14 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
 h1 {
   text-align: center;
   color: blue;
+}
+
+#chicken { 
+  background-color: blue;
+  color: white;
+  border: 1px, black;
 }
