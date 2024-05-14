@@ -35,6 +35,9 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: relative;
+  top: 0px;
+  right: 0px;
   }
 
 #T2 { 
@@ -55,8 +58,3 @@ h1 {
   height: 20px;
   }
 
-#T1 {
-  position: relative;
-  top: 0px;
-  right: 0px;
-}
