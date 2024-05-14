@@ -44,6 +44,9 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: relative;
+  top: 0px;
+  right: 0px;
   }
 
 #T3 { 
@@ -53,5 +56,8 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: relative;
+  top: 0px;
+  right: 0px;
   }
 
