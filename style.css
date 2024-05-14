@@ -1,8 +1,5 @@
 * {
   font-family: Arial, sans-serif;
-}
-
-* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -29,10 +26,6 @@ h1 {
   width: 75px;
   height: 20px;
   margin-top: 15px;
-  overflow: auto;
-  position: relative;
-  top: 0px;
-  right:0px;
   }
 
 #T2 { 
@@ -43,7 +36,6 @@ h1 {
   width: 75px;
   height: 20px;
   margin-top: 15px;
-  overflow: auto;
   }
 
 #T3 { 
@@ -54,11 +46,5 @@ h1 {
   width: 75px;
   height: 20px;
   margin-top: 15px;
-  overflow: auto;
   }
 
-#C {
-  color: black;
-  background-color: #BFC4BF;
-  margin-bottom: 15px;
-}
