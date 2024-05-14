@@ -1,3 +1,68 @@
+/********** Base Styles **********/
+* {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+#box1 {
+  background-color: #BFC4BF;
+  border: 1px solid black;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#box2 {
+  background-color: #BFC4BF;
+  border: 1px solid black;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#box3 {
+  background-color: #BFC4BF;
+  border: 1px solid black;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#T1 { 
+  color: white;
+  text-align: center;
+  background-color: blue;
+  padding: 0px;
+  border: 1px solid black;
+  width: 75px;
+  height: 20px;
+  }
+
+#T2 { 
+  background-color: green;
+  text-align: center;
+  padding: 0px;
+  border: 1px solid black;
+  width: 75px;
+  height: 20px;
+  }
+
+#T3 { 
+  background-color: red;
+  text-align: center;
+  padding: 0px;
+  border: 1px solid black;
+  width: 75px;
+  height: 20px;
+  }
+#C {
+  padding: 0px;
+}
+
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
@@ -85,66 +150,3 @@
   }
 }
     
-* {
-  font-family: Arial, sans-serif;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 15px;
-}
-
-#box1 {
-  background-color: #BFC4BF;
-  border: 1px solid black;
-  margin-right: 5px;
-  margin-left: 5px;
-}
-
-#box2 {
-  background-color: #BFC4BF;
-  border: 1px solid black;
-  margin-right: 5px;
-  margin-left: 5px;
-}
-
-#box3 {
-  background-color: #BFC4BF;
-  border: 1px solid black;
-  margin-right: 5px;
-  margin-left: 5px;
-}
-
-#T1 { 
-  color: white;
-  text-align: center;
-  background-color: blue;
-  padding: 0px;
-  border: 1px solid black;
-  width: 75px;
-  height: 20px;
-  }
-
-#T2 { 
-  background-color: green;
-  text-align: center;
-  padding: 0px;
-  border: 1px solid black;
-  width: 75px;
-  height: 20px;
-  }
-
-#T3 { 
-  background-color: red;
-  text-align: center;
-  padding: 0px;
-  border: 1px solid black;
-  width: 75px;
-  height: 20px;
-  }
-#C {
-  padding: 0px;
-}
