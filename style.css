@@ -12,6 +12,7 @@ h1 {
   width: 300px;
   height: 500px;
   overflow: auto;
+  margin-botttom: 15px;
 }
 
 #T1 { 
@@ -22,7 +23,6 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
-  margin-top: 15px;
   }
 
 #T2 { 
@@ -32,7 +32,6 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
-  margin-top: 15px;
   }
 
 #T3 { 
@@ -42,6 +41,5 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
-  margin-top: 15px;
   }
 
