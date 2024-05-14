@@ -9,6 +9,9 @@ h1 {
 #box {
   background-color: #BFC4BF;
   border: 1px solid black;
+  width: 300px;
+  height: 500px;
+  overflow: auto;
 }
 
 #T1 { 
