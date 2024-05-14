@@ -8,7 +8,7 @@
   padding: 0;
 }
 
-#P {
+div > p {
   background-color: #BFC4BF;
   padding: 5px;
   border: 1px solid black;
