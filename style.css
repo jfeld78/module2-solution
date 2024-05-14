@@ -1,12 +1,14 @@
 * {
   font-family: Arial, sans-serif;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 h1 {
   text-align: center;
+}
+
+#box {
+  background-color: #BFC4BF;
+  border: 1px solid black;
 }
 
 #T1 { 
