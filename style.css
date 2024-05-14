@@ -35,7 +35,7 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
-  position: absolute;
+  position: relative;
   top: 0px;
   right: 0px;
   }
