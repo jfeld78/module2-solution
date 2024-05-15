@@ -11,12 +11,22 @@ h1 {
   margin-bottom: 15px;
 }
 
-p {
+#box1 {
   background-color: #BFC4BF;
   border: 1px solid black;
-  margin: 90%;
-  margin-right: auto;
-  margin-left: auto;
+  margin-bottom: 15px;
+}
+
+#box2 {
+  background-color: #BFC4BF;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+#box3 {
+  background-color: #BFC4BF;
+  border: 1px solid black;
+  margin-bottom: 15px;
 }
 
 #T1 { 
