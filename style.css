@@ -53,9 +53,14 @@ h1 {
   width: 75px;
   height: 20px;
   }
-#C {
-  padding: 0px;
+
+div {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
 }
+
+
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
