@@ -15,18 +15,21 @@ h1 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
+  padding: 10px;
 }
 
 #box2 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
+  padding: 10px;
 }
 
 #box3 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
+  padding: 10px;
 }
 
 #T1 { 
@@ -76,7 +79,7 @@ h1 {
     width: 25%;
   }
   .col-lg-4 {
-    width: 33%;
+    width: 32%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -125,7 +128,7 @@ h1 {
     width: 41.66%;
   }
   .col-md-6 {
-    width: 49%;
+    width: 45%;
   }
   .col-md-7 {
     width: 58.33%;
