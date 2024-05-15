@@ -15,28 +15,24 @@ h1 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
-  padding: 10px;
 }
 
 #box2 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
-  padding: 10px;
 }
 
 #box3 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin-bottom: 15px;
-  padding: 10px;
 }
 
 #T1 { 
   color: white;
   text-align: center;
   background-color: blue;
-  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
@@ -45,7 +41,6 @@ h1 {
 #T2 { 
   background-color: green;
   text-align: center;
-  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
@@ -54,7 +49,6 @@ h1 {
 #T3 { 
   background-color: red;
   text-align: center;
-  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
