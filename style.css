@@ -57,6 +57,9 @@ h1 {
   height: 20px;
   }
 
+#C {
+  padding: 5px;
+
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
