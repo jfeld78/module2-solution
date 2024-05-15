@@ -54,7 +54,7 @@ h1 {
   height: 20px;
   }
 
-div {
+div#box {
   width: 90%;
   margin-right: auto;
   margin-left: auto;
