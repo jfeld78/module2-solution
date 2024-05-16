@@ -27,6 +27,12 @@ h1 {
   margin: 5px 5px 5px 5px;
 }
 
+div#T1 {
+  position: relative;
+  top: 0px;
+  right: 0px;
+}
+
 #T1 { 
   color: white;
   text-align: center;
@@ -54,12 +60,6 @@ h1 {
   width: 75px;
   height: 20px;
   }
-
-div#T1 {
-  position: relative;
-  top: 0px;
-  right: 0px;
-}
 
 #C {
   margin: 8px;
