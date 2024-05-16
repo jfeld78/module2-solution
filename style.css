@@ -19,13 +19,15 @@ h1 {
 #box2 {
   background-color: #BFC4BF;
   border: 1px solid black;
-  margin: 5px 5px 5px 5px;
+  margin: 5px;
+  position: relative;
 }
 
 #box3 {
   background-color: #BFC4BF;
   border: 1px solid black;
-  margin: 5px 5px 5px 5px;
+  margin: 5px;
+  position: relative;
 }
 
 #T1 { 
@@ -47,6 +49,8 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: absolute;
+  right: 0px;
   }
 
 #T3 { 
@@ -56,6 +60,8 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: absolute;
+  right: 0px;
   }
 
 #C {
