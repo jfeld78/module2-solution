@@ -12,7 +12,8 @@ h1 {
 #box1 {
   background-color: #BFC4BF;
   border: 1px solid black;
-  margin: 5px 5px 5px 5px;
+  margin: 5px;
+  position: relative;
 }
 
 #box2 {
@@ -27,12 +28,6 @@ h1 {
   margin: 5px 5px 5px 5px;
 }
 
-div#T1 {
-  position: relative;
-  top: 0px;
-  right: 0px;
-}
-
 #T1 { 
   color: white;
   text-align: center;
@@ -41,6 +36,8 @@ div#T1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
+  position: absolute;
+  right: 0px;
   }
 
 #T2 { 
