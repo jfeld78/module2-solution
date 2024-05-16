@@ -30,6 +30,7 @@ h1 {
 #T1 { 
   color: white;
   text-align: center;
+  align: right;
   background-color: blue;
   padding: 0px;
   border: 1px solid black;
