@@ -33,6 +33,7 @@ h1 {
   color: white;
   text-align: center;
   background-color: blue;
+  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
@@ -41,6 +42,7 @@ h1 {
 #T2 { 
   background-color: green;
   text-align: center;
+  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
@@ -49,6 +51,7 @@ h1 {
 #T3 { 
   background-color: red;
   text-align: center;
+  padding: 0px;
   border: 1px solid black;
   width: 75px;
   height: 20px;
