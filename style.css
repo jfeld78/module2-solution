@@ -13,6 +13,7 @@ h1 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin: 5px;
+  padding-top: 20px;
   position: relative;
 }
 
@@ -36,7 +37,7 @@ h1 {
   border: 1px solid black;
   width: 75px;
   height: 20px;
-  position: relative;
+  position: absolute;
   right: 0px;
   }
 
