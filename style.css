@@ -13,7 +13,7 @@ h1 {
   background-color: #BFC4BF;
   border: 1px solid black;
   margin: 5px;
-  position: relative;
+  position: absolute;
 }
 
 #box2 {
